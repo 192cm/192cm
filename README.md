@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning ML, DL and DataScience
+- 🌱 I’m currently learning LLM and RAG System
 - 💬 Ask me about everything
 - 📫 How to reach me: kyle080405@gmail.com
 
