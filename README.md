@@ -1,4 +1,21 @@
-## Hi, I'm Kyle 👋
+<h1 align="center">Hi, I'm Kyle 👋</h1>
+
+<p align="center">
+  AI / ML Learner · LLM & RAG System Builder · Generative AI Explorer
+</p>
+
+<p align="center">
+  <a href="mailto:kyle080405@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kyle080405%40gmail.com-blue?style=flat-square&logo=gmail">
+  </a>
+  <a href="https://github.com/192cm">
+    <img src="https://img.shields.io/badge/GitHub-192cm-black?style=flat-square&logo=github">
+  </a>
+</p>
+
+---
+
+## About Me
 
 I'm interested in building AI systems that connect **LLMs, RAG, data analysis, and generative models** into practical applications.
 
