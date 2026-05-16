@@ -1,5 +1,3 @@
-<div align="center">
-
 # 👋 Hi, I'm Kyle
 
 ### AI / ML Learner · LLM & RAG System Builder · Generative AI Explorer
@@ -10,8 +8,6 @@
 <a href="https://github.com/192cm">
   <img src="https://img.shields.io/badge/GitHub-192cm-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</div>
 
 ---
 
