@@ -1,1 +1,89 @@
-<div align="center"> # Gunho Jang 👋 ### AI Research · LLM Engineer · Backend Developer [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=LLM+%26+RAG+System+Developer;AI+Agent+Architecture;Diffusion+Model+Fine-Tuning;Backend+%26+AI+System+Engineering)](https://git.io/typing-svg) </div> --- ## About Me - 🌱 Currently learning **LLM**, **RAG Systems**, and **AI Agents** - 🔬 Interested in **Generative AI**, **Multi-Agent Systems**, and **Backend Architecture** - 🧠 Exploring **Diffusion Model Fine-Tuning** and **AI System Design** - 💬 Ask me about **AI**, **Backend**, and **System Architecture** - 📫 Contact: **kyle080405@gmail.com** --- ## Tech Stack ### Languages <p> <img src="https://skillicons.dev/icons?i=python,kotlin,java,dart,c,cpp" /> </p> ### AI / ML <p> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /> </p> <p> <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" /> <img src="https://img.shields.io/badge/LangGraph-0E1117?style=for-the-badge" /> <img src="https://img.shields.io/badge/RAG_System-1E1E1E?style=for-the-badge" /> <img src="https://img.shields.io/badge/Diffusion_Model-20232A?style=for-the-badge" /> </p> ### Development Tools <p> <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,androidstudio,flutter,firebase" /> </p> --- ## Current Focus ```txt - LLM Agent Workflow Design - RAG Pipeline Optimization - Diffusion Model Style Adaptation - Multi-Agent AI Systems - AI Backend Architecture
+````md
+<div align="center">
+
+# Gunho Jang
+
+### AI Researcher · LLM Engineer · Backend Developer
+
+<p>
+  <a href="mailto:kyle080405@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kyle080405%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=LLM+%26+RAG+Systems;AI+Agent+Architecture;Diffusion+Model+Fine-Tuning;Backend+%26+AI+Engineering"/>
+
+</div>
+
+---
+
+## About Me
+
+```python
+class GunhoJang:
+
+    def __init__(self):
+        self.role = "AI Researcher"
+        self.interests = [
+            "LLM",
+            "RAG System",
+            "AI Agents",
+            "Diffusion Models",
+            "Backend Architecture"
+        ]
+
+    def currently_learning(self):
+        return [
+            "LangGraph",
+            "Multi-Agent Workflow",
+            "LoRA Fine-Tuning",
+            "AI System Design"
+        ]
+````
+
+---
+
+## Tech Stack
+
+### Languages
+
+### AI / ML
+
+### Tools
+
+---
+
+## Current Focus
+
+* LLM Agent Workflow
+* RAG Pipeline Optimization
+* Diffusion Model Style Adaptation
+* AI Backend Architecture
+
+---
+
+## Projects
+
+### AID-FIT
+
+> Multi-Agent AI Fashion Recommendation System
+
+* Vision-Language Model
+* Hybrid RAG Pipeline
+* Personalized Recommendation
+* Agent-based Workflow
+
+---
+
+### Customizing LoRA
+
+> Diffusion Model Style Adaptation Framework
+
+* Style Token Learning
+* LoRA Fine-Tuning
+* Dataset Generation
+* Prompt Generalization
+
+---
+
+## GitHub St
