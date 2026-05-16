@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kyle
+# 👋 Hi, I'm Kunho
 
 ### AI / ML Learner · LLM & RAG System Builder · Generative AI Explorer
 
