@@ -1,74 +1,133 @@
-<h1 align="center">Hi, I'm Kyle 👋</h1>
+<div align="center">
 
-<p align="center">
-  AI / ML Learner · LLM & RAG System Builder · Generative AI Explorer
-</p>
+# 👋 Hi, I'm Kyle
 
-<p align="center">
-  <a href="mailto:kyle080405@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kyle080405%40gmail.com-blue?style=flat-square&logo=gmail">
-  </a>
-  <a href="https://github.com/192cm">
-    <img src="https://img.shields.io/badge/GitHub-192cm-black?style=flat-square&logo=github">
-  </a>
-</p>
+### AI / ML Learner · LLM & RAG System Builder · Generative AI Explorer
 
----
+<a href="mailto:kyle080405@gmail.com">
+  <img src="https://img.shields.io/badge/Email-kyle080405%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/192cm">
+  <img src="https://img.shields.io/badge/GitHub-192cm-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## About Me
-
-I'm interested in building AI systems that connect **LLMs, RAG, data analysis, and generative models** into practical applications.
-
-Currently, I'm studying and working on:
-
-- LLM-based applications and RAG systems
-- Diffusion model customization with LoRA
-- Machine learning and data analysis projects
-- End-to-end AI system design
+</div>
 
 ---
 
-## Featured Projects
+## 🧑‍💻 About Me
 
-### Customizing LoRA for Diffusion Models
-Fine-tuning diffusion models with LoRA to adapt visual styles and generate customized image outputs.
-
-### Financial RAG System
-A retrieval-augmented generation system designed for financial document search and question answering.
-
-### Demand Forecasting
-Machine learning project for retail inventory and demand prediction.
-
-### Customer Churn Prediction
-Predictive modeling and monitoring system for telecom customer churn.
+- 🔭 Currently working on **LLM, RAG, and AI system design**
+- 🌱 Learning **LangGraph, RAG optimization, and diffusion model fine-tuning**
+- 🧠 Interested in **AI agents, retrieval systems, and generative models**
+- 🛠️ Building projects with **Python, PyTorch, Flutter, and GitHub**
+- 📫 Contact: **kyle080405@gmail.com**
 
 ---
 
-## Tech Stack
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🎨 Customizing LoRA for Diffusion Models</h3>
+      <p>
+        Fine-tuning diffusion models with LoRA to adapt visual styles and generate customized image outputs.
+      </p>
+      <a href="https://github.com/192cm/Customizing-LoRA-for-Diffusion-Models">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>📚 Financial RAG System</h3>
+      <p>
+        Retrieval-Augmented Generation system for financial document search and question answering.
+      </p>
+      <a href="https://github.com/192cm/Financial_RAG_System">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📦 Demand Forecasting</h3>
+      <p>
+        Machine learning project for retail inventory and demand forecasting.
+      </p>
+      <a href="https://github.com/192cm/Retail-Store-Inventory-and-Demand-Forecasting">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>📊 Customer Churn Prediction</h3>
+      <p>
+        Predictive modeling and monitoring system for telecom customer churn analysis.
+      </p>
+      <a href="https://github.com/192cm/Telco-Customer-Churn-Prediction-and-Monitoring">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 ### AI / ML
-Python · PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
 
 ### LLM / RAG
-LangChain · LangGraph · Vector DB · Embeddings · Retrieval-Augmented Generation
 
-### Data
-Jupyter Notebook · Data Visualization · EDA · Forecasting · Classification
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-20232A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector_DB-6A5ACD?style=for-the-badge"/>
+</p>
 
-### Development
-Git · GitHub · VS Code · Flutter · Android
+### Data / Development
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
-## Currently Learning
+## 📌 Currently Learning
 
-- LLM application architecture
-- RAG pipeline optimization
-- Agent workflow design with LangGraph
-- Diffusion model fine-tuning
+<p>
+  <img src="https://img.shields.io/badge/LLM_Application_Architecture-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG_Pipeline_Optimization-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Agent_Workflow_Design-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Diffusion_Model_Fine--Tuning-000000?style=flat-square"/>
+</p>
 
 ---
 
-## Contact
+## 📈 GitHub Stats
 
-Email: kyle080405@gmail.com
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=192cm&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=192cm&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building AI systems one project at a time.
+
+</div>
